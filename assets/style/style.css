@@ -1,0 +1,14 @@
+/* BASIC STYLES HERE */
+
+.bodyBackground{
+    background-size: cover;
+    background-image: url(https://images.nintendolife.com/4f5a07dacea36/9.large.png);
+}
+
+.listSection{
+    background-color: #81a2b75b;
+}
+
+.activeSection{
+    background-color: rgba(107, 107, 200, 0.253);
+}
